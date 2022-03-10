@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>Cunctator</displayName>
+  <description>
+ Modifies the combat experience of the Old World.</description>
+ <modpicture>old-world-cover.jpg</modpicture>
+  <author>elmaKurdu48</author>
+  <modversion>0.1</modversion>
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <modioID>31</modioID>
+  <modioFileID>0</modioFileID>
+  <modDependencies />
+  <modIncompatibilities />
+</ModInfo>
